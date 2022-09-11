@@ -3,7 +3,7 @@ import './navbar.css';
 
 const Navbar = () => (
   <div className="navbar">
-    <span className="navbar-name">RateMyClassroom</span>
+    <a href="http://localhost:8080/" className="navbar-name">RateMyClassroom</a>
   </div>
 );
 
